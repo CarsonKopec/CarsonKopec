@@ -26,6 +26,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1mag1n33&show_icons=true&locale=en&layout=compact" alt="1mag1n33" /></p>
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=979251202942447656)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1mag1n33&show_icons=true&locale=en" alt="1mag1n33" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1mag1n33&" alt="1mag1n33" /></p>
