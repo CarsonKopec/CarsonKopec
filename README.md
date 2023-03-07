@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1mag1n33&show_icons=true&locale=en&layout=compact" alt="1mag1n33" /></p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/979251202942447656)
+[![Discord Presence](https://lanyard.cnrad.dev/api/979251202942447656)](https://discord.com/users/979251202942447656)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1mag1n33&show_icons=true&locale=en" alt="1mag1n33" /></p>
 
