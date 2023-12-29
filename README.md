@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Html,css,Python**
 
-- 📫 How to reach me **PuzzixDev@gmail.com**
+- 📫 How to reach me **Nucte@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
