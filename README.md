@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1mag1n33" alt="1mag1n33" /></a> </p>
 
-- 🔭 I’m currently working on [Mc ServerLauncher](https://github.com/PuzzixDev/Serverlauncher)
+- 🔭 I’m currently working on [NuclearTeam](https://github.com/NucTe)
 
-- 🌱 I’m currently learning **Python,Java,C#**
+- 🌱 I’m currently learning **C++**
 
 - 🤝 I’m looking for help with **Backend dev**
 
 - 💬 Ask me about **Html,css,Python**
 
-- 📫 How to reach me **Nucte@gmail.com**
+- 📫 How to reach me **1mag1n33dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
