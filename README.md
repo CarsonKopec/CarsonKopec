@@ -42,14 +42,16 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/1mag1n33/1mag1n33/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/1mag1n33/count.svg?"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/1mag1n33/count.svg?"  />
+  <a href="https://open.spotify.com/user/w69pjw9enq70mclxstvbuznvq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=w69pjw9enq70mclxstvbuznvq&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
