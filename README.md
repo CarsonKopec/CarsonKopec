@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Carson, a passionate developer who loves coding and gaming. I'm currently working on multiple projects, including:<br><br>- **Physics Engine**: Creating a GUI using Elementa for managing data related to a physics engine.<br>- **Minecraft Mods**: Developing custom mods and systems like a prefab system and a nuclear tech mod.<br><br>I enjoy solving problems, experimenting with new technologies, and contributing to the open-source community. Feel free to check out my projects below!<br>
+Hi! I'm Carson, a passionate developer who loves coding and gaming. I'm currently working on multiple projects, including:<br><br>- **Minecraft Mods**: Developing custom mods and systems like a prefab system and a nuclear tech mod.<br><br>I enjoy solving problems, experimenting with new technologies, and contributing to the open-source community. Feel free to check out my projects below!<br>
 
 
 # 💻 Tech Stack:
