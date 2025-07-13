@@ -3,7 +3,7 @@ Hi! I'm **Carson**, a passionate full-stack and systems developer who loves buil
 
 I work on a variety of ambitious projects, including:
 
-- ⚙️ **[JNova](https://github.com/ImagineForgee)** – A fully custom, annotation-driven networking framework for Java, supporting TCP, UDP, and Kafka.
+- ⚙️ **[JNova](https://github.com/ImagineForgee/JNova)** – A fully custom, annotation-driven networking framework for Java, supporting TCP, UDP, and Kafka.
 - 🎮 **Voxel Game Engine** – Minecraft-inspired block engine using **Vulkan** (via LWJGL) and **C++** backends through JNI.
 - 🧱 **Minecraft Mods** – Cross-platform mods (Forge/Fabric/NeoForge) like *AutoModSync* using the Balm abstraction layer.
 - 📡 **Discord Client** – Selfbot client in Java with full voice & video streaming support, built from raw gateway + UDP protocols.
