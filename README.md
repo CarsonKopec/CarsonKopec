@@ -1,12 +1,18 @@
 # 💫 About Me:
 Hi! I'm **Carson**, a passionate full-stack and systems developer who loves building things from scratch, diving into game engines, network protocols, and modding Minecraft.
 
-I work on a variety of ambitious projects, including:
+---
 
-- ⚙️ **[JNova](https://github.com/ImagineForgee/JNova)** – A fully custom, annotation-driven networking framework for Java, supporting TCP, UDP, and Kafka.
-- 🎮 **Voxel Game Engine** – Minecraft-inspired block engine using **Vulkan** (via LWJGL) and **C++** backends through JNI.
-- 🧱 **Minecraft Mods** – Cross-platform mods (Forge/Fabric/NeoForge) like *AutoModSync* using the Balm abstraction layer.
-- 📡 **Discord Client** – Selfbot client in Java with full voice & video streaming support, built from raw gateway + UDP protocols.
+# 🚀 Featured Projects
+- ⚙️ **[JNova](https://github.com/CarsonKopec/JNova)** – A modular, annotation-driven networking framework for Java. Supports TCP, UDP, and Kafka with reactive streams.
+- 📦 **[Moka](https://github.com/CarsonKopec/Moka)** – A next-generation package manager with its own scripting language for build, test, and deployment tasks.
+- 🌍 **[ReactoCraft](https://github.com/CarsonKopec/ReactoCraft)** – A Minecraft-like server built with Java + Rust using Project Reactor, featuring chunk loading, caching, and custom worldgen.
+
+---
+
+# 🛠️ Other Work
+- 🧱 **Minecraft Mods** – Cross-platform mods (Forge/Fabric/NeoForge) like *Waypoint Pets* powered by the Balm abstraction layer.
+- 📡 **Discord Client** – Custom selfbot client in Java with full voice & video streaming, built on raw gateway + UDP protocols.
 
 I enjoy solving complex problems, experimenting with low-level systems, and pushing Java and Rust beyond their usual limits.  
 Feel free to explore my repos and follow my journey!
@@ -19,14 +25,14 @@ Feel free to explore my repos and follow my journey!
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ImagineForgee&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ImagineForgee&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImagineForgee&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=CarsonKopec&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=CarsonKopec&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonKopec&theme=dark&hide_border=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ImagineForgee&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=CarsonKopec&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
